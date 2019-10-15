@@ -1,0 +1,6 @@
+C:\Users\Mr.Steep\source\repos\Stroika\obj\Debug\Stroika.csprojAssemblyReference.cache
+C:\Users\Mr.Steep\source\repos\Stroika\bin\Debug\Stroika.exe.config
+C:\Users\Mr.Steep\source\repos\Stroika\bin\Debug\Stroika.exe
+C:\Users\Mr.Steep\source\repos\Stroika\bin\Debug\Stroika.pdb
+C:\Users\Mr.Steep\source\repos\Stroika\obj\Debug\Stroika.exe
+C:\Users\Mr.Steep\source\repos\Stroika\obj\Debug\Stroika.pdb
